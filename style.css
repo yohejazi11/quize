@@ -284,4 +284,7 @@
         gap: 10px;
         font-size: 18px;
     }
+    footer div{
+        display: block;
+    }
 }
